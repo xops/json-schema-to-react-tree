@@ -2,7 +2,7 @@
 
 A react component to visually display JSON Schemas
 
-![image](https://user-images.githubusercontent.com/364566/78063975-dfa08c80-7345-11ea-8afe-103771392d1b.png)
+![image](https://user-images.githubusercontent.com/364566/78064105-14144880-7346-11ea-9b42-b7158048cba9.png)
 
 ### Contributing
 
