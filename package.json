@@ -4,6 +4,9 @@
   "homepage": "",
   "description": "json-schema to react material-ui tree",
   "main": "package/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "package/"
   ],
