@@ -1,0 +1,51 @@
+{
+  "name": "@xops.net/json-schema-to-react-tree",
+  "version": "0.0.0-development",
+  "homepage": "",
+  "description": "json-schema to react material-ui tree",
+  "main": "package/index.js",
+  "files": [
+    "package/"
+  ],
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "lint": "tslint --fix -p .",
+    "test": "npm run lint && react-scripts test --coverage --passWithNoTests",
+    "build:package": "tsc --noEmit false --outDir package --jsx react --declaration true --allowJs false --isolatedModules false --target es5 --module commonjs && mv package/exports.d.ts package/index.d.ts && mv package/exports.js package/index.js"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/jest": "^24.0.13",
+    "@types/react-dom": "^16.8.4",
+    "jest": "^24.9.0",
+    "react-scripts": "^3.4.1",
+    "ts-jest": "^24.0.2",
+    "tslint": "^5.17.0",
+    "typescript": "^3.5.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.9.8",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.47",
+    "@types/json-schema": "^7.0.4",
+    "@types/uuid": "^7.0.2",
+    "json-schema": "^0.2.5",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "uuid": "^7.0.2"
+  }
+}
