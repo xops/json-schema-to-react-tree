@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/xops/json-schema-to-react-tree/compare/1.0.0...1.0.1) (2020-03-31)
+
+
+### Bug Fixes
+
+* **releaserc:** add npm ([a9a22c3](https://github.com/xops/json-schema-to-react-tree/commit/a9a22c3e56c2b9e23a5c3a7c3bc2dfc2036bddc4))
+* **releaserc:** remove npm success ([148e3ca](https://github.com/xops/json-schema-to-react-tree/commit/148e3ca227016515417c64d246a2eca3fffb5b12))
+
 # 1.0.0 (2020-03-31)
 
 
