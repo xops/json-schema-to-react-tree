@@ -1,3 +1,17 @@
+# 1.0.0 (2020-03-31)
+
+
+### Bug Fixes
+
+* **README:** add screenshot ([86d3cab](https://github.com/xops/json-schema-to-react-tree/commit/86d3cabc4753394146a482141f253d44aae65934))
+* **README:** add usage ([b7f742a](https://github.com/xops/json-schema-to-react-tree/commit/b7f742ae40e286488e6f2a0fad6681cea99d17a2))
+* **README:** update screenshot ([0c2a4de](https://github.com/xops/json-schema-to-react-tree/commit/0c2a4debf08afc08e2a674f714b805cf343cf247))
+
+
+### Features
+
+* initial commit ([6e5de36](https://github.com/xops/json-schema-to-react-tree/commit/6e5de362028ed5b4b7007dae937d87ec8c016955))
+
 ## [1.0.2](https://github.com/etclabscore/pristine-typescript-react/compare/1.0.1...1.0.2) (2019-07-02)
 
 
