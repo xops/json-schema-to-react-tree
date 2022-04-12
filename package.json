@@ -46,7 +46,7 @@
     "@material-ui/lab": "^4.0.0-alpha.47",
     "@types/json-schema": "^7.0.4",
     "@types/uuid": "^7.0.2",
-    "json-schema": "^0.2.5",
+    "json-schema": "^0.4.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "uuid": "^7.0.2"
